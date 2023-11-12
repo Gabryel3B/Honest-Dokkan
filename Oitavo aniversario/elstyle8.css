@@ -24,6 +24,11 @@ p {
   justify-content: center;
 }
 
+.voltar:hover {
+  border: 2px solid #16D0FF;
+  transform: scale(1.015);
+}
+
 .sumario {
  font-family: arial, sans-serif;
  font-weight: bold; 
@@ -55,13 +60,6 @@ h2 {
 .selecao:hover {
   background-color: #a86c13;
   transform: scale(1.015);
-}
-
-.tabcontent {
-  color: white;
-  display: none;
-  padding: 0px 0px;
-  height: 100%;
 }
 
 .center {
