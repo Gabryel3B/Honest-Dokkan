@@ -12,6 +12,25 @@ p {
   text-align: left;
 }
 
+.bvoltar{
+  font-family: 'Agdasima', serif;
+  font-size: 20px;
+  color: white;
+  text-align: left;
+}
+
+.voltar {
+  width: 65px; 
+  height: 30px;
+  background-color: rgba(0, 0, 0, .5); 
+  border: 2px solid #0e7994; 
+  padding: 0px; 
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .sumario {
  font-family: arial, sans-serif;
  font-weight: bold; 
