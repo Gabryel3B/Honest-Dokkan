@@ -64,6 +64,15 @@ footer ul {
   text-align: left;
 }
 
+footer a{
+  color: white;
+}
+
+footer a:hover {
+  color: #03fcec;
+  text-shadow: 0px 0 #03fcec;
+}
+
 .linkne:hover {
   color: #03fcec;
   text-shadow: 0px 0 #03fcec;
