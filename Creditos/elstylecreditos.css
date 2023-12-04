@@ -1,0 +1,68 @@
+body {
+  background-image: url('https://cdn.discordapp.com/attachments/801264378493009974/1142924686792081449/dokkan_battle_stylized_background_by_junereito_de3k8vk.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+  font-family: 'Agdasima', serif;
+  font-size: 22px;
+  color: white;
+  text-align: left;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.explica {
+  background-color: rgba(0, 0, 0, .5);
+  border: 3px solid #0e7994;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, .3);
+    border: 3px solid rgba(21, 190, 232, .3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer ul {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    margin-right: 40px;
+}
+
+.finalz {
+  font-family: 'Agdasima', serif;
+  font-size: 22px;
+  color: white;
+  text-align: left;
+}
+
+footer a{
+  color: white;
+}
+
+footer a:hover {
+  color: #03fcec;
+  text-shadow: 0px 0 #03fcec;
+}
+
+.linkne:hover {
+  color: #03fcec;
+  text-shadow: 0px 0 #03fcec;
+}
