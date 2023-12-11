@@ -37,3 +37,12 @@ p {
   margin-right: auto;
   width: 60%;
 }
+
+.linkne {
+  color: #047573;
+}
+
+.linkne:hover {
+  color: #03fcec;
+  text-shadow: 0px 0 #03fcec;
+}
