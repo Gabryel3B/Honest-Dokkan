@@ -116,3 +116,12 @@ footer a:hover {
   color: #03fcec;
   text-shadow: 0px 0 #03fcec;
 }
+
+.linknetexto {
+  color: #05b5b2;
+}
+
+.linknetexto:hover {
+  color: #03fcec;
+  text-shadow: 0px 0 #03fcec;
+}
