@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-image: url('https://cdn.discordapp.com/attachments/801264378493009974/1142924686792081449/dokkan_battle_stylized_background_by_junereito_de3k8vk.png');
   background-repeat: no-repeat;
