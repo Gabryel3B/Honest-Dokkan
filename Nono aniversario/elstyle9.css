@@ -100,47 +100,22 @@ footer {
   background-color: rgba(0, 0, 0, .3);
   border: 3px solid rgba(21, 190, 232, .3);
   display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-footer ul {
-  height: 50px;
+  flex-wrap: wrap;
   width: 100%;
-  display: flex;
+  min-height: 100px;
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  list-style: none;
-  margin-right: 5%;
-  word-break: line-break;
-}
-
-.finalz {
-  font-family: 'Agdasima', serif;
-  font-size: 22px;
-  color: white;
-  text-align: center;
 }
 
 footer a {
+  margin: 4%;
   color: white;
+  font-family: 'Agdasima', serif;
+  font-size: 22px;
 }
 
 footer a:hover {
   color: #03fcec;
   text-shadow: 0px 0 #03fcec;
 }
-
-.linkne:hover {
-  color: #03fcec;
-  text-shadow: 0px 0 #03fcec;
-}
-
-.linknetexto {
-  color: #05b5b2;
-}
-
-.linknetexto:hover {
-  color: #03fcec;
-  text-shadow: 0px 0 #03fcec;
-}
