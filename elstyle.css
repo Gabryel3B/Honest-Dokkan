@@ -3,9 +3,10 @@ html {
 }
 
 body {
-  background-image: url('https://i.postimg.cc/vTcBx3Qk/background.webp');
+  background-image: url('https://i.postimg.cc/bwY2hmSM/background2.jpg');
   background-attachment: fixed;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%
 }
 
 header {
