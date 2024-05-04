@@ -46,6 +46,7 @@ p {
 
 .sumario li .dropdown {
 width: 300px;
+  max-width: 70%;
 background-color: rgba(0, 0, 0, .8);
   border: 3px solid #0e7994;
 position: absolute;
