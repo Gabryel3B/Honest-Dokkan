@@ -33,8 +33,24 @@ header a:hover {
   color: #16D0FF;
 }
 
-#eza2 {
+#eza2agl {
   box-shadow: 0px 0px 4px 4px rgba(0, 255, 255, 1);
+}
+
+#eza2phy {
+  box-shadow: 0px 0px 4px 4px rgba(255, 255, 0, 1);
+}
+
+#eza2str {
+  box-shadow: 0px 0px 4px 4px rgba(255, 0, 0, 1);
+}
+
+#eza2teq {
+  box-shadow: 0px 0px 4px 4px rgba(0, 255, 40, 1);
+}
+
+#eza2int {
+  box-shadow: 0px 0px 4px 4px rgba(200, 0, 255, 1);
 }
 
 p {
