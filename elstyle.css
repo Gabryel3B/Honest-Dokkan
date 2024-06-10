@@ -63,14 +63,14 @@ p {
 .sumario li .dropdown {
 width: 300px;
   max-width: 70%;
-background-color: rgba(0, 0, 0, .8);
+  background-color: rgba(0, 0, 0, .8);
   border: 3px solid #0e7994;
-position: absolute;
-display: none;
+  position: absolute;
+  display: none;
 }
 
 .sumario li:hover .dropdown {
-display: block;
+  display: block;
 }
 
 .sumario {
@@ -80,9 +80,21 @@ display: block;
   color: #05D7D3;
 }
 
+.sumariol{
+  color: #0070E0;
+}
+
 .sumariol:hover {
-  color: #aadff2;
-  text-shadow: 0px 0 #75bed9;
+  color: #6ad7ff;
+  
+}
+
+.celeb {
+  transition: all 0.1s linear;
+}
+
+.celeb:hover {
+  transform: scale(1.015);
 }
 
 .titlteq {
