@@ -232,7 +232,7 @@ h2 {
 }
 
 .selecao:hover {
-  background-image: url('./Imagens/Extras/buttonbackhover.webp');
+  filter: grayscale(25%);
   transform: scale(1.015);
 }
 
@@ -303,4 +303,4 @@ footer a:hover, footer p:hover {
 .linknetexto:hover {
   color: #03fcec;
   text-shadow: 0px 0 #03fcec;
-}
+}
