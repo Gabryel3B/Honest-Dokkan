@@ -279,16 +279,17 @@ h2 {
 }
 
 .selecao {
-  background-image: url('./Imagens/Extras/buttonback.webp');
-  background-position: center;
-  background-size: cover;
-  border: 3px solid rgba(69, 69, 69);
-  padding: 0px 0px;
-  transition: all 0.1s linear;
-  margin: 3px;
+  margin: 1px;
 }
 
-.selecao:hover {
+.imgselecao {
+  background-image: url('./Assets/buttonback.png');
+  background-position: center;
+  background-size: cover;
+  transition: all 0.1s linear;
+}
+
+.imgselecao:hover {
   filter: grayscale(25%);
   transform: scale(1.015);
 }
