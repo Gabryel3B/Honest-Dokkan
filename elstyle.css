@@ -138,6 +138,13 @@ p {
   margin-bottom: 5px;
 }
 
+.titlpurple {
+  background-color: rgba(21, 95, 23, 0.135);
+  border: solid rgb(205, 67, 247) 5px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
 .teq {
   color: #0a9608;
   background-color: rgb(159, 205, 163); 
