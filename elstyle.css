@@ -71,6 +71,17 @@ header a:hover {
   color: #16D0FF;
 }
 
+.fiveselection {
+  border: 2px solid white;
+  max-width: 70px; 
+  width: 20%;
+  transition: all 0.1s linear;
+}
+
+.fiveselection:hover {
+  transform: scale(1.015);
+}
+
 .topbutton {
   text-decoration:none; 
   position: fixed; 
