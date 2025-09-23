@@ -43,6 +43,15 @@ body {
   font-weight: bold;
 }
 
+.statsyel {
+  color: yellow;
+  font-weight: bold;
+}
+
+.statspara {
+  padding-left: 15px;
+}
+
 header {
   position: fixed;
   left: 0;
